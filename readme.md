@@ -1,4 +1,4 @@
-### Prismaの練習
+# Prismaの練習
 
 - sqlite
 公式ドキュメントにある通り
